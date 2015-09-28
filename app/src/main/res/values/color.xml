@@ -1,0 +1,10 @@
+<resources>
+
+    <color name="foo">#74ffbc</color>
+    <color name="red">#ffe40000</color>
+    <color name="green">#ff00ff22</color>
+    <color name="blue">#ff44aacc</color>
+    <color name="purple">#8f4ccc</color>
+    <color name="black">#000000</color>
+
+</resources>
